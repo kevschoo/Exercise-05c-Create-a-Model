@@ -1,5 +1,6 @@
 # Exercise-05c-Create-a-Model
 ```
+
 # Exercise-05c-Create-a-Model
 
 Exercise for MSCH-C220, 31 March 2021
@@ -16,5 +17,5 @@ Created in Blender 2.92.0
 None
 
 ## Created by 
-Jason Francis
+Kevin Schoonover
 ```
